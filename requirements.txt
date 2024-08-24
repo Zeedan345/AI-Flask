@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-flask
-=======
 Flask
 gunicorn
->>>>>>> 8557708981e59c8c3f761929aed1774021026e73
 flask_cors
 torch
 sentence_transformers
 transformers
 pandas
-<<<<<<< HEAD
 pinecone
-=======
-pinecone
->>>>>>> 8557708981e59c8c3f761929aed1774021026e73
